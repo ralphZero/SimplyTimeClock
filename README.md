@@ -16,11 +16,9 @@ Made during the Flutter Clock Challenge
 
 ### 2. Screenshots
 
-* Some screenshots
-   * [list associated required story here]
-
+* Screenshots
+   * <img src="Screenshot_20191230-170756.jpg">
+* One more...
+   * <img src="Screenshot_20191230-170830.jpg">
 ## Wireframe
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
+ * The wireframe is available on [Figma](https://www.figma.com/file/KBsHvZxmUa4sO0lhTQeHkt/Untitled?node-id=0%3A1)
